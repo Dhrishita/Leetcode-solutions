@@ -4,6 +4,5 @@ int scoreOfString(char* s) {
     {
         score+=abs(s[i]-s[i+1]);
     }
-    return score;
-    
+    return score; 
 }
