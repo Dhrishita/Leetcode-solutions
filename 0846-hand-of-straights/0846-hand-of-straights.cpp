@@ -12,7 +12,7 @@ public:
         
         for(auto m= d.begin() ; m!=d.end(); )
         {
-            if(m->second > 0)
+            if(d[m->first] > 0)
             {
                 for(int i = 0 ; i< groupSize ; i++)
                 {
