@@ -10,21 +10,21 @@ public:
         }
         
         
-        for(auto x= d.begin() ; x!=d.end(); )
+        for(auto m= d.begin() ; m!=d.end(); )
         {
-            if(x->second > 0)
+            if(m->second > 0)
             {
                 for(int i = 0 ; i< groupSize ; i++)
                 {
-                    if(d[x->first + i] > 0)
-                        d[x->first + i]--;
+                    if(d[m->first + i] > 0)
+                        d[m->first + i]--;
                     else
                         return false;
                 }
             }
             else
             {
-                x++;
+                m++;
             }
         }
         return true;
