@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def bstToGst(self, root):
-        self.sum = 0
+        self.sum=0
         def reverse_in_order(node):
             if not node:
                 return
