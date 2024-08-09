@@ -5,12 +5,15 @@ class Solution(object):
                 return False
             sum_of_1_row=sum(grid[r][c:c+3])
                 
+            #Checking if sum of 2nd and 3rd row = 1st row or not
             if sum(grid[r+1][c:c+3])!=sum_of_1_row or sum(grid[r+2][c:c+3])!=sum_of_1_row:
                 return False
-                
+            
+            #Checking if sum of 1st,2nd,3rd column = 1st,2nd,3rd row or not
             if sum(grid[r+i][c] for i in range(3))!=sum_of_1_row or sum(grid[r+i][c+1] for i in range(3))!=sum_of_1_row or sum(grid[r+i][c+2] for i in range(3))!=sum_of_1_row:
                 return False
-                
+            
+            #Checking if sum of both diagonals = sum of row & columns
             if grid[r][c]+grid[r+1][c+1]+grid[r+2][c+2]!=sum_of_1_row:
                 return False
                 
@@ -25,6 +28,7 @@ class Solution(object):
             return 0
         
         cnt=0
+        #Only considering 3x3 subgrids within the grid's boundaries
         for r in range(row-2):
             for c in range(col-2):
                 if self.magic_square(grid,r,c):
