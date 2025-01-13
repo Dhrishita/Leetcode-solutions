@@ -9,3 +9,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Dhrishita/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+## String
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Dhrishita/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Dhrishita/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+<!---LeetCode Topics End-->
