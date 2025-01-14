@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Dhrishita/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -23,4 +24,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Dhrishita/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+## Array
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
