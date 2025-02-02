@@ -21,6 +21,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3429-special-array-i](https://github.com/Dhrishita/Leetcode-solutions/tree/master/3429-special-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
