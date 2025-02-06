@@ -9,6 +9,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhrishita/Leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -16,6 +17,7 @@ Happy coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
@@ -24,5 +26,6 @@ Happy coding! 🚀
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
