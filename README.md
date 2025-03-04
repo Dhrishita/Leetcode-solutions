@@ -12,6 +12,7 @@ Happy coding! 🚀
 | [1364-tuple-with-same-product](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2551-apply-operations-to-an-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhrishita/Leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Dhrishita/Leetcode-solutions/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -36,5 +37,10 @@ Happy coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Dhrishita/Leetcode-solutions/tree/master/3447-clear-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
