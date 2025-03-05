@@ -13,6 +13,7 @@ Happy coding! 🚀
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dhrishita/Leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Dhrishita/Leetcode-solutions/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -20,6 +21,7 @@ Happy coding! 🚀
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -43,4 +45,5 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2551-apply-operations-to-an-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
