@@ -49,4 +49,8 @@ Happy coding! 🚀
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Math
+|  |
+| ------- |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 <!---LeetCode Topics End-->
