@@ -11,6 +11,7 @@ Happy coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0303-range-sum-query-immutable](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1364-tuple-with-same-product](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -80,4 +81,12 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
