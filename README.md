@@ -9,6 +9,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1364-tuple-with-same-product](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -52,6 +53,7 @@ Happy coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -74,4 +76,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
