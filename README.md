@@ -9,6 +9,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1364-tuple-with-same-product](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -51,6 +52,7 @@ Happy coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -68,4 +70,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
