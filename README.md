@@ -10,6 +10,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1364-tuple-with-same-product](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
@@ -55,6 +56,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -89,4 +91,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
