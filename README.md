@@ -16,6 +16,7 @@ Happy coding! 🚀
 | [1364-tuple-with-same-product](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Dhrishita/Leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2262-solving-questions-with-brainpower](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -95,4 +96,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dhrishita/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2262-solving-questions-with-brainpower](https://github.com/Dhrishita/Leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 <!---LeetCode Topics End-->
